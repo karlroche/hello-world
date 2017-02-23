@@ -1,2 +1,3 @@
 # hello-world
-Just another rep
+
+Trying to understand what GitHub is all about. 
